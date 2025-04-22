@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "176787315124",
+    "project_id": "vaidik-matrimony",
+    "storage_bucket": "vaidik-matrimony.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176787315124:android:a3047e9f43eed507293ae1",
+        "android_client_info": {
+          "package_name": "com.vaidik.matrimony"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176787315124-2rrekp1kol4iapogbbm6sagramvm91sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vaidik.matrimony",
+            "certificate_hash": "a22509124f66c0bb74312eb1e76515cef6f3ca40"
+          }
+        },
+        {
+          "client_id": "176787315124-athg4rsfku74nj3e33kgv5ut3mjr6e30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vaidik.matrimony",
+            "certificate_hash": "4f640c7490f3ee62ccf2cc24918576f9296b76c9"
+          }
+        },
+        {
+          "client_id": "176787315124-k4c9e01n8gh5q4qu93ih8ps3ukhs9831.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_vpHSFIpSnQYlnpQqUpUwip7u7qCmTjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176787315124-k4c9e01n8gh5q4qu93ih8ps3ukhs9831.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

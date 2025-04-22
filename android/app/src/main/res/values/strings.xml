@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vaidik Matrimony</string>
+    <string name="facebook_app_id">657367037246815</string>
+    <string name="facebook_client_token">55161827fb2066c894e18e6309717ab0</string>
+    <string name="facebook_login_protocol_scheme">fb657367037246815</string>
+</resources>
